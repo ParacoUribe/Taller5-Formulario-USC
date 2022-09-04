@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FORMULARIO INSCRIPCION CURSO PYTHON</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="edit_mail">Introduzca su correo</string>
+    <string name="edit_password">Introduzca su contraseña</string>
+    <string name="edit_name">Nombre</string>
+    <string name="edit_document">Documento</string>
+</resources>
